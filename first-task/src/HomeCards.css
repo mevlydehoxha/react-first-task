@@ -1,0 +1,10 @@
+.HomeCards{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding:5%;
+    font-family: 'Century Gothic';
+    font-size:15px;
+    color:rgb(90, 86, 86);
+
+}
