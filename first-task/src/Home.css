@@ -2,8 +2,7 @@
     display: flex; 
     flex-wrap: wrap;
     justify-content: center;
-    margin:8% 0;
-    padding:0 17% 10% 15%;
+    padding:5% 17% 10% 15%;
     font-family: 'Century Gothic';
     font-size:15px;
     color:rgb(90, 86, 86);

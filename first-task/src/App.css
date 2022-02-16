@@ -1,0 +1,18 @@
+.link{
+    text-decoration: none;
+    font-size: 2rem;
+    color:rgb(95, 93, 93);
+    font-family: 'Century Gothic';
+}
+ul {
+    display: flex;
+    justify-content: center;
+    margin-top:5%;
+    list-style-type: none; 
+  }
+li{
+    margin:0 5% 0 5%;
+}
+  
+  
+      

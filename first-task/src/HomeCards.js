@@ -92,7 +92,7 @@ const contents=[{
 ];
 function HomeCards(){
     return(
-        <div className="HomeCards">
+            <div className="HomeCards">
             {contents.map((content) => 
                 <div key={content.id}>
                     <Card
