@@ -4,7 +4,7 @@
     width:28rem;
     height:28rem;
     box-shadow: .1rem .1rem .1rem .1rem #cac6c6;
-    margin-bottom: 7rem;
+    margin:2rem 2rem 2rem 2rem;
 }
 .head{
     display: flex;
@@ -73,7 +73,7 @@
 }
 .download-button{
     font-size:1rem;
-    margin:3rem 0 3rem 3rem;
+    margin:5rem 0 3rem 3rem;
     width:12rem;
     height:4rem;
     border-radius:3rem;
