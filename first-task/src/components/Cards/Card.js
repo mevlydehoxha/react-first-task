@@ -1,5 +1,4 @@
 import React from 'react';
-import { render } from 'react-dom';
 import './Card.css';
 import img from './placeholder-image.png';
 
@@ -81,12 +80,8 @@ const Card=(props)=>{
                         <button className="download-button">Download</button>
                     </div>
                 </div>
-    
             </div>
-    
         ); 
-
     }   
     }  
-
 export default Card;
