@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './Home.js';
-import { BrowserRouter, Routes, Route, Link, useLocation} from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link} from 'react-router-dom';
 import HomeCards from './HomeCards';
   
 
